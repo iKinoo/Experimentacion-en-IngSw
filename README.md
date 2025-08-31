@@ -28,7 +28,7 @@ El contenido está organizado de la siguiente manera para facilitar el acceso y 
 El proceso para generar el material de estudio es el siguiente:
 
 1.  **Grabación:** Se graba el audio de la clase.
-2.  **Transcripción:** El audio se procesa usando [WhisperX]([https://](https://github.com/m-bain/whisperX)) para generar un archivo de texto base en la carpeta `raw/`.
-3.  **Elaboración de Resumen:** Utilizando la plantilla de `templates/template.md`, se revisa la transcripción en bruto para crear un resumen detallado y corregido con ayuda de [Gemini 2.5 Pro]([https://](https://aistudio.google.com/)) Gemini 2.5 Pro, el cual se almacena en `resúmenes/`.
+2.  **Transcripción:** El audio se procesa usando [WhisperX](https://github.com/m-bain/whisperX) para generar un archivo de texto base en la carpeta `raw/`.
+3.  **Elaboración de Resumen:** Utilizando la plantilla de `templates/template.md`, se revisa la transcripción en bruto para crear un resumen detallado y corregido con ayuda de [Gemini 2.5 Pro](https://aistudio.google.com/) Gemini 2.5 Pro, el cual se almacena en `resúmenes/`.
 
 ---
