@@ -1,4 +1,4 @@
-# 📖 Expermentación en Ingeniería de Sofware: *Smart-AI Notes*
+# 📖 Experimentación en Ingeniería de Sofware: *Smart-AI Notes*
 
 Este repositorio centraliza todas las transcripciones y resúmenes de las clases del curso de **Experimentación en Ingeniería de Software**.
 
@@ -6,10 +6,11 @@ Este repositorio centraliza todas las transcripciones y resúmenes de las clases
 
 ##  <img src="assets/Music Play.gif"  width="25"/> Últimas Clases
 
-- [Teoría de la Medición y Escalas de Medición en Ingeniería de Software](resúmenes/exper_vera_2025.08.29.md) $\cdot$ *29/08*
-- [Análisis Práctico de un Experimento: Factor Humano y Procesos de Software](resúmenes/exper_vera_2025.08.28.md) $\cdot$ *28/08*
-- [Terminología y Conceptos Clave del Diseño Experimental](resúmenes/exper_vera_2025.08.22.md) $\cdot$ *22/08*
-- [Métodos de Investigación Empírica en Ingeniería de Software](resúmenes/exper_vera_2025.08.21.md) $\cdot$ *21/08*
+- [Principios del Diseño Experimental y Calidad de la Medición](resúmenes/exper_vera_2025.09.04.md) 📅 *04/09*
+- [Teoría de la Medición y Escalas de Medición en Ingeniería de Software](resúmenes/exper_vera_2025.08.29.md) 📅 *29/08*
+- [Análisis Práctico de un Experimento: Factor Humano y Procesos de Software](resúmenes/exper_vera_2025.08.28.md) 📅 *28/08*
+- [Terminología y Conceptos Clave del Diseño Experimental](resúmenes/exper_vera_2025.08.22.md) 📅 *22/08*
+- [Métodos de Investigación Empírica en Ingeniería de Software](resúmenes/exper_vera_2025.08.21.md) 📅 *21/08*
 
 ## 📂 Estructura de Carpetas
 
@@ -29,6 +30,6 @@ El proceso para generar el material de estudio es el siguiente:
 
 1.  **Grabación:** Se graba el audio de la clase.
 2.  **Transcripción:** El audio se procesa usando [WhisperX](https://github.com/m-bain/whisperX) para generar un archivo de texto base en la carpeta `raw/`.
-3.  **Elaboración de Resumen:** Utilizando la plantilla de `templates/template.md`, se revisa la transcripción en bruto para crear un resumen detallado y corregido con ayuda de [Gemini 2.5 Pro](https://aistudio.google.com/) Gemini 2.5 Pro, el cual se almacena en `resúmenes/`.
+3.  **Elaboración de Resumen:** Utilizando la plantilla de `templates/template.md`, se revisa la transcripción en bruto para crear un resumen detallado y corregido con ayuda de [Gemini 2.5 Pro](https://aistudio.google.com/), el cual se almacena en `resúmenes/`.
 
 ---
