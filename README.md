@@ -2,10 +2,10 @@
 
 Este repositorio centraliza todas las transcripciones y resúmenes de las clases del curso de **Experimentación en Ingeniería de Software**.
 
-> Disclaimer: Los archivos de audio son privados, solo accesible mediante permiso.
+> Disclaimer: Los archivos de audio no son públicos.
 
-##  <img src="assets/Music Play.gif"  width="25"/> Últimas Clases
 
+- [Fases del Proceso Experimental y Diseños con Múltiples Factores](resúmenes/exper_vera_2025.09.05.md) 📅 *05/09*
 - [Principios del Diseño Experimental y Calidad de la Medición](resúmenes/exper_vera_2025.09.04.md) 📅 *04/09*
 - [Teoría de la Medición y Escalas de Medición en Ingeniería de Software](resúmenes/exper_vera_2025.08.29.md) 📅 *29/08*
 - [Análisis Práctico de un Experimento: Factor Humano y Procesos de Software](resúmenes/exper_vera_2025.08.28.md) 📅 *28/08*
